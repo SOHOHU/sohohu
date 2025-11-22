@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Zkp，DeFi，Solidity**
+- 💬 Ask me about **Zkp，DeFi，Blockchain Programing**
 
 - 📫 How to reach me **h127429916@gmail.com**
 
