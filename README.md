@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HU Shengquan</h1>
+<h1 align="center">Hi 👋, I'm SOHO</h1>
 <h3 align="center">A Graduate in Nanyang Technological University</h3>
 
 
